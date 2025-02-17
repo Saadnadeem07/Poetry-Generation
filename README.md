@@ -7,7 +7,7 @@ Ever wished for an AI poet that understands Roman Urdu? 🎨🌟 Introducing the
 - 🔄 **Web Scraping**: Poetry data sourced from [Rekhta.org](http://rekhta.org/)
 - 🧠 **LSTM Model**: Trained on Roman Urdu poetry for realistic text generation
 - 📲 **Gradio UI**: Interactive and user-friendly web app
-- 🛠️ **Deployment**: Hosted via Streamlit for public access
+- 🛠️ **Deployment**: Hosted via Gradio for public access
 
 ## 📚 Demo
 Try out the poetry generator: **[Streamlit Deployment Link]** ((https://211d7f315358a73d2c.gradio.live/))
