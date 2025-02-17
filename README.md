@@ -10,7 +10,7 @@ Ever wished for an AI poet that understands Roman Urdu? 🎨🌟 Introducing the
 - 🛠️ **Deployment**: Hosted via Gradio for public access
 
 ## 📚 Demo
-Try out the poetry generator: **[Streamlit Deployment Link]** ((https://211d7f315358a73d2c.gradio.live/))
+Try out the poetry generator: [Streamlit Deployment Link](https://211d7f315358a73d2c.gradio.live/)
 
 ## 📚 Screenshot
 Here's a preview of the app interface:
